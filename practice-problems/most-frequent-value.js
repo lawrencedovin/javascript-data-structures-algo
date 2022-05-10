@@ -45,7 +45,7 @@ const mostFrequentValue = (numbers) => {
     // console.log('highestFrequencyValue: ', highestFrequencyValue);
     // console.log('frequencyObject: ', frequencyObject);
     // console.log('mostFrequencyArray: ', mostFrequencyArray);
-    return mostFrequencyArray
+    return mostFrequencyArray;
 }
 
 mostFrequentValue([1,2,2,3,4]);
